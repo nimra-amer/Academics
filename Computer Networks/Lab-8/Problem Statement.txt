@@ -1,0 +1,47 @@
+Problem Statement:
+
+Design a simple network simulation in ns-3 where two nodes are connected by a point-to-point link with the following specifications:
+
+Link Characteristics:
+
+Data Rate: 10 Mbps
+
+Delay: 5 ms
+
+
+Network Setup:
+
+Node A should send UDP packets to Node B.
+
+The application on Node B should echo any data it receives from Node A.
+
+
+Packet Characteristics:
+
+Packet size: 512 bytes
+
+Transmission interval: 0.5 seconds
+
+The client should send 5 packets in total.
+
+Tasks:
+
+1. Write the code for the network topology in ns-3.
+
+
+2. Assign IP addresses to each node in the network.
+
+
+3. Configure the UDP echo server on Node B and set it to listen on port 8080.
+
+
+4. Configure the UDP echo client on Node A to send packets to Node B on port 8080.
+
+
+5. Run the simulation for 10 seconds.
+
+
+Output
+The output should show Node A sending packets to Node B and receiving an echo back.
+
+Verify if all 5 packets were sent and echoed correctly.

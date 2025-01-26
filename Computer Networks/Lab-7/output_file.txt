@@ -1,0 +1,3 @@
+Candidate: Bilawal Zardari,	Symbol: Arrow,	CNIC: 43304-2042345-3
+Candidate: Imran Khan,	Symbol: Bat,	CNIC: 43344-6052684-3
+Candidate: Khadim Hussain Rizvi,	Symbol: Crane,	CNIC: 36782-2771596-3
